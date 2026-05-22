@@ -1,4 +1,5 @@
 """Tests for session_handoff.py"""
+from __future__ import annotations
 import json
 import subprocess
 import sys
