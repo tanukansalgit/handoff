@@ -8,7 +8,7 @@ Claude Code compacts your context window and drops the engineering layer -
 which approach you chose, what you rejected, the error you were debugging, what's still open.  
 handoff hooks into that event and bridges it into your next prompt. Automatically.
 
-[![CI](https://github.com/YOUR_GITHUB_USERNAME/handoff/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_GITHUB_USERNAME/handoff/actions/workflows/ci.yml)
+[![CI](https://github.com/tanukansalgit/handoff/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_GITHUB_USERNAME/handoff/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![Claude Code](https://img.shields.io/badge/Claude_Code-hooks-orange.svg)](https://claude.ai/code)
@@ -52,7 +52,7 @@ The right column is what you actually need to recover a session fast. Without it
 > To reduce the timeout: `export HANDOFF_LLM_TIMEOUT=30`
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/handoff.git
+git clone https://github.com/tanukansalgit/handoff.git
 cd handoff
 bash install.sh
 ```
